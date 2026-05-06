@@ -1,0 +1,445 @@
+2026-04-20 08:38:54 | INFO     | GmailWatcher | New OAuth2 consent completed.
+2026-04-20 08:38:54 | INFO     | GmailWatcher | Token saved: D:\Hackthon_0\silver_tier_3\token.json
+2026-04-20 08:38:54 | INFO     | GmailWatcher | Gmail API service ready.
+2026-04-20 08:38:54 | INFO     | GmailWatcher | Vault root   : D:\Hackthon_0\silver_tier_3
+2026-04-20 08:38:54 | INFO     | GmailWatcher | Destination  : D:\Hackthon_0\silver_tier_3\Needs_Action
+2026-04-20 08:38:54 | INFO     | GmailWatcher | Poll interval: 60s
+2026-04-20 08:38:54 | INFO     | GmailWatcher | Max results  : 10 per cycle
+2026-04-20 08:38:54 | INFO     | GmailWatcher | GmailWatcher started. Press Ctrl+C to stop.
+2026-04-20 08:38:54 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:38:56 | INFO     | GmailWatcher | Found 10 new unread message(s).
+2026-04-20 08:38:56 | INFO     | GmailWatcher | EMAIL -> EMAIL_19da42f7f7e3.md | From: Google <no-reply@accounts.google.com> | Subject: 2-Step Verification turned on
+2026-04-20 08:38:57 | INFO     | GmailWatcher | EMAIL -> EMAIL_19da42f6ccc6.md | From: Google <no-reply@accounts.google.com> | Subject: 2-Step Verification turned off
+2026-04-20 08:38:57 | INFO     | GmailWatcher | EMAIL -> EMAIL_19da42ce7309.md | From: Google <no-reply@accounts.google.com> | Subject: Security alert
+2026-04-20 08:38:57 | INFO     | GmailWatcher | EMAIL -> EMAIL_19da42b4e6e3.md | From: Google <no-reply@accounts.google.com> | Subject: 2-Step Verification turned on
+2026-04-20 08:38:58 | INFO     | GmailWatcher | EMAIL -> EMAIL_19da3c4d16c7.md | From: Google <no-reply@accounts.google.com> | Subject: Security alert
+2026-04-20 08:38:58 | INFO     | GmailWatcher | EMAIL -> EMAIL_19ced9888cfa.md | From: Zoha Khan via LinkedIn <invitations@linkedin.com> | Subject: Zoha accepted your invitation, explore their network
+2026-04-20 08:38:59 | INFO     | GmailWatcher | EMAIL -> EMAIL_19ce6042b3fa.md | From: Google <no-reply@google.com> | Subject: ✅ Zainub, finish setting up your new Google Account on your 
+2026-04-20 08:38:59 | INFO     | GmailWatcher | EMAIL -> EMAIL_19ce603eaa6b.md | From: Google Play <googleplay-noreply@google.com> | Subject: Your new privacy settings on Play
+2026-04-20 08:39:00 | INFO     | GmailWatcher | EMAIL -> EMAIL_19ce5f470453.md | From: Google <no-reply@accounts.google.com> | Subject: Security alert
+2026-04-20 08:39:00 | INFO     | GmailWatcher | EMAIL -> EMAIL_19ce5e355a8f.md | From: LinkedIn <security-noreply@linkedin.com> | Subject: We're sorry to see you go
+2026-04-20 08:39:00 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:40:00 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:40:00 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:40:00 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:41:00 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:41:01 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:41:01 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:42:01 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:42:01 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:42:01 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:43:01 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:43:01 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:43:01 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:44:01 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:44:02 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:44:02 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:45:02 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:45:02 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:45:02 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:46:02 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:46:03 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:46:03 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:47:03 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:47:03 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:47:03 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:48:03 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:48:04 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:48:04 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:49:04 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:49:04 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:49:04 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:50:04 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:50:05 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:50:05 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:51:05 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:51:05 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:51:05 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:52:05 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:52:06 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:52:06 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:53:06 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:53:06 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:53:06 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 08:54:06 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 08:54:07 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 08:54:07 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:31:53 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:32:18 | ERROR    | GmailWatcher | Unexpected error in poll cycle: [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "D:\Hackthon_0\silver_tier_3\watchers\gmail_watcher.py", line 360, in run
+    self._poll()
+    ~~~~~~~~~~^^
+  File "D:\Hackthon_0\silver_tier_3\watchers\gmail_watcher.py", line 335, in _poll
+    ids = self._fetch_unread_message_ids()
+  File "D:\Hackthon_0\silver_tier_3\watchers\gmail_watcher.py", line 193, in _fetch_unread_message_ids
+    .execute()
+     ~~~~~~~^^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\http.py", line 923, in execute
+    resp, content = _retry_request(
+                    ~~~~~~~~~~~~~~^
+        http,
+        ^^^^^
+    ...<7 lines>...
+        headers=self.headers,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\http.py", line 222, in _retry_request
+    raise exception
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+                    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\google_auth_httplib2.py", line 216, in request
+    response, content = self.http.request(
+                        ~~~~~~~~~~~~~~~~~^
+        uri,
+        ^^^^
+    ...<5 lines>...
+        **kwargs
+        ^^^^^^^^
+    )
+    ^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\httplib2\__init__.py", line 1727, in request
+    (response, content) = self._request(
+                          ~~~~~~~~~~~~~^
+        conn, authority, uri, request_uri, method, body, headers, redirections, cachekey,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\httplib2\__init__.py", line 1447, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+                          ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\httplib2\__init__.py", line 1399, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-20 16:32:18 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:33:18 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:33:20 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:33:20 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:34:20 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:34:20 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:34:20 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:35:20 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:35:20 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:35:20 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:36:20 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:36:21 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:36:21 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:37:21 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:37:21 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:37:21 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:38:21 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:38:21 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:38:21 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:39:21 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:39:22 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:39:22 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:40:22 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:40:22 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:40:22 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:41:22 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:41:22 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:41:22 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:42:22 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:42:23 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:42:23 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:43:23 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:43:23 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:43:23 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:44:23 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:44:23 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:44:23 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:45:23 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:45:24 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-20 16:45:24 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:46:24 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:46:25 | INFO     | GmailWatcher | Found 1 new unread message(s).
+2026-04-20 16:46:25 | INFO     | GmailWatcher | EMAIL -> EMAIL_19ce5dea1779.md | From: LinkedIn <security-noreply@linkedin.com> | Subject: Zainub, your pin is 481342. Please confirm your email addres
+2026-04-20 16:46:25 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:47:25 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:47:25 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:47:25 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:48:25 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:48:26 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:48:26 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:49:26 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:49:26 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:49:26 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:50:26 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:50:26 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:50:26 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:51:26 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:51:27 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:51:27 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:52:27 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:52:27 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:52:27 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:53:27 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:53:27 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:53:27 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:54:27 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:54:28 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:54:28 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:55:28 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:55:28 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:55:28 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:56:28 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:56:28 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:56:28 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:57:28 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:57:29 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:57:29 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:58:29 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:58:29 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:58:29 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 16:59:29 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 16:59:29 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 16:59:29 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:00:29 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:00:30 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:00:30 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:01:30 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:01:30 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:01:30 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:02:30 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:02:30 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:02:30 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:03:30 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:03:31 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:03:31 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:04:31 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:04:31 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:04:31 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:05:31 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:05:31 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:05:31 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:06:31 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:06:32 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:06:32 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:07:32 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:07:32 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:07:32 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:08:32 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:08:32 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:08:32 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:09:32 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:09:33 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:09:33 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:10:33 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:10:33 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:10:33 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:11:33 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:11:33 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:11:33 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:12:33 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:12:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:12:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:13:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:13:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:13:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:14:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:14:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:14:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:15:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:15:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:15:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:16:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:16:35 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:16:35 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:17:35 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:17:35 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:17:35 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:18:35 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:18:35 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:18:35 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:19:35 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:19:36 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:19:36 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:20:36 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:20:36 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:20:36 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 17:21:36 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 17:21:36 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 17:21:36 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:21:11 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:21:30 | ERROR    | GmailWatcher | Unexpected error in poll cycle: [WinError 10054] An existing connection was forcibly closed by the remote host
+Traceback (most recent call last):
+  File "D:\Hackthon_0\silver_tier_3\watchers\gmail_watcher.py", line 360, in run
+    self._poll()
+    ~~~~~~~~~~^^
+  File "D:\Hackthon_0\silver_tier_3\watchers\gmail_watcher.py", line 335, in _poll
+    ids = self._fetch_unread_message_ids()
+  File "D:\Hackthon_0\silver_tier_3\watchers\gmail_watcher.py", line 193, in _fetch_unread_message_ids
+    .execute()
+     ~~~~~~~^^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\http.py", line 923, in execute
+    resp, content = _retry_request(
+                    ~~~~~~~~~~~~~~^
+        http,
+        ^^^^^
+    ...<7 lines>...
+        headers=self.headers,
+        ^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\http.py", line 222, in _retry_request
+    raise exception
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\googleapiclient\http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+                    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\google_auth_httplib2.py", line 216, in request
+    response, content = self.http.request(
+                        ~~~~~~~~~~~~~~~~~^
+        uri,
+        ^^^^
+    ...<5 lines>...
+        **kwargs
+        ^^^^^^^^
+    )
+    ^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\httplib2\__init__.py", line 1727, in request
+    (response, content) = self._request(
+                          ~~~~~~~~~~~~~^
+        conn, authority, uri, request_uri, method, body, headers, redirections, cachekey,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\httplib2\__init__.py", line 1447, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+                          ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Hackthon_0\silver_tier_3\.venv\Lib\site-packages\httplib2\__init__.py", line 1399, in _conn_request
+    response = conn.getresponse()
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\DANISH LAPTOP\AppData\Local\Programs\Python\Python313\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-20 18:21:30 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:22:30 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:22:31 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:22:31 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:23:31 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:23:31 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:23:31 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:24:31 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:24:32 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:24:32 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:25:32 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:25:32 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:25:32 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:26:32 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:26:32 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:26:32 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:27:32 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:27:33 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:27:33 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:28:33 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:28:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:28:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:29:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:29:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:29:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:30:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:30:34 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:30:34 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:31:34 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:31:35 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:31:35 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:32:35 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:32:35 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:32:35 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:33:35 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:33:35 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:33:35 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-20 18:34:35 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-20 18:34:36 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-04-20 18:34:36 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-23 09:23:53 | INFO     | GmailWatcher | Loaded 11 seen email IDs.
+2026-04-23 09:24:07 | INFO     | GmailWatcher | New OAuth2 consent completed.
+2026-04-23 09:24:07 | INFO     | GmailWatcher | Token saved: D:\Hackthon_0\silver_tier_3\token.json
+2026-04-23 09:24:07 | INFO     | GmailWatcher | Gmail API service ready.
+2026-04-23 09:24:07 | INFO     | GmailWatcher | Vault root   : D:\Hackthon_0\silver_tier_3
+2026-04-23 09:24:07 | INFO     | GmailWatcher | Destination  : D:\Hackthon_0\silver_tier_3\Needs_Action
+2026-04-23 09:24:07 | INFO     | GmailWatcher | Poll interval: 60s
+2026-04-23 09:24:07 | INFO     | GmailWatcher | Max results  : 10 per cycle
+2026-04-23 09:24:07 | INFO     | GmailWatcher | GmailWatcher started. Press Ctrl+C to stop.
+2026-04-23 09:24:07 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-23 09:24:09 | INFO     | GmailWatcher | Found 1 new unread message(s).
+2026-04-23 09:24:09 | INFO     | GmailWatcher | EMAIL -> EMAIL_19db32a27051.md | From: Google Gemini <google-gemini-noreply@google.com> | Subject: You’re now using Gemini on web
+2026-04-23 09:24:09 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-23 09:25:09 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-23 09:25:10 | INFO     | GmailWatcher | Found 1 new unread message(s).
+2026-04-23 09:25:10 | INFO     | GmailWatcher | EMAIL -> EMAIL_19db894b91f6.md | From: Google <no-reply@accounts.google.com> | Subject: Security alert
+2026-04-23 09:25:10 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-04-29 13:26:43 | INFO     | GmailWatcher | Loaded 13 seen email IDs.
+2026-04-29 13:26:43 | INFO     | GmailWatcher | Loaded existing token: D:\Hackthon_0\silver_tier_3\token.json
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Token refreshed successfully.
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Token saved: D:\Hackthon_0\silver_tier_3\token.json
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Gmail API service ready.
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Vault root   : D:\Hackthon_0\silver_tier_3
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Destination  : D:\Hackthon_0\silver_tier_3\Needs_Action
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Poll interval: 60s
+2026-04-29 13:26:45 | INFO     | GmailWatcher | Max results  : 10 per cycle
+2026-04-29 13:26:45 | INFO     | GmailWatcher | GmailWatcher started. Press Ctrl+C to stop.
+2026-04-29 13:26:45 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-04-29 13:26:47 | DEBUG    | GmailWatcher | All 10 unread message(s) already processed.
+2026-04-29 13:26:47 | INFO     | GmailWatcher | GmailWatcher stopped.
+2026-05-01 17:12:00 | INFO     | GmailWatcher | Loaded 13 seen email IDs.
+2026-05-01 17:12:00 | INFO     | GmailWatcher | Loaded existing token: D:\Hackthon_0\silver_tier_3\token.json
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Token refreshed successfully.
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Token saved: D:\Hackthon_0\silver_tier_3\token.json
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Gmail API service ready.
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Vault root   : D:\Hackthon_0\silver_tier_3
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Destination  : D:\Hackthon_0\silver_tier_3\Needs_Action
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Poll interval: 60s
+2026-05-01 17:12:02 | INFO     | GmailWatcher | Max results  : 10 per cycle
+2026-05-01 17:12:02 | INFO     | GmailWatcher | GmailWatcher started. Press Ctrl+C to stop.
+2026-05-01 17:12:02 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-05-01 17:12:03 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-05-01 17:12:03 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-05-01 17:13:03 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-05-01 17:13:03 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-05-01 17:13:03 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-05-01 17:14:03 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-05-01 17:14:03 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-05-01 17:14:03 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.
+2026-05-01 17:15:03 | DEBUG    | GmailWatcher | --- Gmail poll cycle ---
+2026-05-01 17:15:04 | DEBUG    | GmailWatcher | All 8 unread message(s) already processed.
+2026-05-01 17:15:04 | DEBUG    | GmailWatcher | Sleeping 60s before next poll.

@@ -1,0 +1,10 @@
+2026/05/01-17:01:56.386 8 Reusing MANIFEST D:\Hackthon_0\silver_tier_3\Logs\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/01-17:01:56.387 8 Recovering log #94
+2026/05/01-17:01:56.392 8 Reusing old log D:\Hackthon_0\silver_tier_3\Logs\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000094.log 
+2026/05/01-17:02:15.013 5de4 Level-0 table #99: started
+2026/05/01-17:02:15.065 5de4 Level-0 table #99: 1009895 bytes OK
+2026/05/01-17:02:15.068 5de4 Delete type=0 #94
+2026/05/01-17:02:15.119 5de4 Compacting 1@1 + 1@2 files
+2026/05/01-17:02:15.256 5de4 Generated table #100@1: 27490 keys, 1172900 bytes
+2026/05/01-17:02:15.256 5de4 Compacted 1@1 + 1@2 files => 1172900 bytes
+2026/05/01-17:02:15.258 5de4 compacted to: files[ 0 0 1 0 0 0 0 ]
